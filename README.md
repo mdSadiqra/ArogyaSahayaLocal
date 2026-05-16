@@ -333,7 +333,7 @@ Paste your Google Drive APK link here
 
 Example:
 
-https://drive.google.com/your-apk-link
+https://drive.google.com/file/d/1M-P_SEfiQJk7Biwa0wrxEVqZlt6NO4Mg/view?usp=sharing
 
 ---
 
