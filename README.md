@@ -246,84 +246,109 @@ ArogyaSahayaLocal/
 ```
 
 ---
-
 # App Screenshots
 
 ## Login Screen
 
-![Login Screen](screenshots/login.jpeg)
+<p align="center">
+  <img src="screenshots/login.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Register Screen
 
-![Register Screen](screenshots/register.jpeg)
+<p align="center">
+  <img src="screenshots/register.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Dashboard Screen 1
 
-![Dashboard Screen 1](screenshots/dashboard1.jpeg)
+<p align="center">
+  <img src="screenshots/dashboard1.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Dashboard Screen 2
 
-![Dashboard Screen 2](screenshots/dashboard2.jpeg)
+<p align="center">
+  <img src="screenshots/dashboard2.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Add Medicine Screen
 
-![Add Medicine Screen](screenshots/add_medicine.jpeg)
+<p align="center">
+  <img src="screenshots/add_medicine.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Medicine History Screen
 
-![Medicine History Screen](screenshots/medicine_history.jpeg)
+<p align="center">
+  <img src="screenshots/medicine_history.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Medical Profile Screen
 
-![Medical Profile Screen](screenshots/medical_profile.jpeg)
+<p align="center">
+  <img src="screenshots/medical_profile.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Vital Log Screen
 
-![Vital Log Screen](screenshots/vital_log.jpeg)
+<p align="center">
+  <img src="screenshots/vital_log.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Health Analytics Graph 1
 
-![Health Graph 1](screenshots/health_graph1.jpeg)
+<p align="center">
+  <img src="screenshots/health_graph1.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Health Analytics Graph 2
 
-![Health Graph 2](screenshots/health_graph2.jpeg)
+<p align="center">
+  <img src="screenshots/health_graph2.jpeg" width="350"/>
+</p>
 
 ---
 
 ## ASHA Connect Screen
 
-![ASHA Connect Screen](screenshots/asha_connect.jpeg)
+<p align="center">
+  <img src="screenshots/asha_connect.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Emergency SOS Screen 1
 
-![Emergency SOS 1](screenshots/emergency_sos1.jpeg)
+<p align="center">
+  <img src="screenshots/emergency_sos1.jpeg" width="350"/>
+</p>
 
 ---
 
 ## Emergency SOS Screen 2
 
-![Emergency SOS 2](screenshots/emergency_sos2.jpeg)
+<p align="center">
+  <img src="screenshots/emergency_sos2.jpeg" width="350"/>
+</p>
 
 # APK Download
 
